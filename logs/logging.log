@@ -179,3 +179,83 @@ x=====================x]
 [2026-04-30 00:54:29,365: INFO: main: >>>>>>>>> Stage Data Transformation Stage  completed <<<<<<<<<<<<<<<
 
 x===============x]
+[2026-04-30 01:09:04,198: INFO: main: Welcome to our custom logging data science ]
+[2026-04-30 01:09:04,198: INFO: main: >>>>>> stage  Data Ingestion Stage started <<<<<<]
+[2026-04-30 01:09:04,200: INFO: common: yaml files: config/config.yaml loadded successfully]
+[2026-04-30 01:09:04,200: INFO: common: yaml files: params.yaml loadded successfully]
+[2026-04-30 01:09:04,200: INFO: common: yaml files: schema.yaml loadded successfully]
+[2026-04-30 01:09:04,201: INFO: common: created directory at: artifacts]
+[2026-04-30 01:09:04,201: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-04-30 01:09:04,201: INFO: data_ingestion: File already exists]
+[2026-04-30 01:09:04,201: INFO: main: >>>>>> stage  Data Ingestion Stage completed <<<<<<
+
+x============x]
+[2026-04-30 01:09:04,202: INFO: main: >>>>>>> Stage  Data Validation Stage  started <<<<<<<< ]
+[2026-04-30 01:09:04,202: INFO: common: yaml files: config/config.yaml loadded successfully]
+[2026-04-30 01:09:04,202: INFO: common: yaml files: params.yaml loadded successfully]
+[2026-04-30 01:09:04,203: INFO: common: yaml files: schema.yaml loadded successfully]
+[2026-04-30 01:09:04,203: INFO: common: created directory at: artifacts]
+[2026-04-30 01:09:04,203: INFO: common: created directory at: artifacts/data_validation]
+[2026-04-30 01:09:04,206: INFO: main: >>>>>>> stage  Data Validation Stage  completed <<<<<<<<<<
+
+x=====================x]
+[2026-04-30 01:09:04,206: INFO: main: >>>>>>>>>>>  Stage Data Transformation Stage  started <<<<<<<<<<<<]
+[2026-04-30 01:09:04,206: INFO: main: >>>>>>>>> Stage Data Transformation Stage  completed <<<<<<<<<<<<<<<
+
+x===============x]
+[2026-04-30 01:10:28,488: INFO: main: Welcome to our custom logging data science ]
+[2026-04-30 01:10:28,488: INFO: main: >>>>>> stage  Data Ingestion Stage started <<<<<<]
+[2026-04-30 01:10:28,489: INFO: common: yaml files: config/config.yaml loadded successfully]
+[2026-04-30 01:10:28,490: INFO: common: yaml files: params.yaml loadded successfully]
+[2026-04-30 01:10:28,490: INFO: common: yaml files: schema.yaml loadded successfully]
+[2026-04-30 01:10:28,490: INFO: common: created directory at: artifacts]
+[2026-04-30 01:10:28,490: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-04-30 01:10:28,490: INFO: data_ingestion: File already exists]
+[2026-04-30 01:10:28,491: INFO: main: >>>>>> stage  Data Ingestion Stage completed <<<<<<
+
+x============x]
+[2026-04-30 01:10:28,491: INFO: main: >>>>>>> Stage  Data Validation Stage  started <<<<<<<< ]
+[2026-04-30 01:10:28,492: INFO: common: yaml files: config/config.yaml loadded successfully]
+[2026-04-30 01:10:28,492: INFO: common: yaml files: params.yaml loadded successfully]
+[2026-04-30 01:10:28,492: INFO: common: yaml files: schema.yaml loadded successfully]
+[2026-04-30 01:10:28,492: INFO: common: created directory at: artifacts]
+[2026-04-30 01:10:28,493: INFO: common: created directory at: artifacts/data_validation]
+[2026-04-30 01:10:28,495: INFO: main: >>>>>>> stage  Data Validation Stage  completed <<<<<<<<<<
+
+x=====================x]
+[2026-04-30 01:10:28,495: INFO: main: >>>>>>>>>>>  Stage Data Transformation Stage  started <<<<<<<<<<<<]
+[2026-04-30 01:10:28,495: INFO: main: >>>>>>>>> Stage Data Transformation Stage  completed <<<<<<<<<<<<<<<
+
+x===============x]
+[2026-04-30 01:11:06,119: INFO: main: Welcome to our custom logging data science ]
+[2026-04-30 01:11:06,119: INFO: main: >>>>>> stage  Data Ingestion Stage started <<<<<<]
+[2026-04-30 01:11:06,120: INFO: common: yaml files: config/config.yaml loadded successfully]
+[2026-04-30 01:11:06,120: INFO: common: yaml files: params.yaml loadded successfully]
+[2026-04-30 01:11:06,121: INFO: common: yaml files: schema.yaml loadded successfully]
+[2026-04-30 01:11:06,121: INFO: common: created directory at: artifacts]
+[2026-04-30 01:11:06,121: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-04-30 01:11:06,121: INFO: data_ingestion: File already exists]
+[2026-04-30 01:11:06,122: INFO: main: >>>>>> stage  Data Ingestion Stage completed <<<<<<
+
+x============x]
+[2026-04-30 01:11:06,122: INFO: main: >>>>>>> Stage  Data Validation Stage  started <<<<<<<< ]
+[2026-04-30 01:11:06,123: INFO: common: yaml files: config/config.yaml loadded successfully]
+[2026-04-30 01:11:06,123: INFO: common: yaml files: params.yaml loadded successfully]
+[2026-04-30 01:11:06,123: INFO: common: yaml files: schema.yaml loadded successfully]
+[2026-04-30 01:11:06,123: INFO: common: created directory at: artifacts]
+[2026-04-30 01:11:06,123: INFO: common: created directory at: artifacts/data_validation]
+[2026-04-30 01:11:06,126: INFO: main: >>>>>>> stage  Data Validation Stage  completed <<<<<<<<<<
+
+x=====================x]
+[2026-04-30 01:11:06,126: INFO: main: >>>>>>>>>>>  Stage Data Transformation Stage  started <<<<<<<<<<<<]
+[2026-04-30 01:11:06,127: INFO: common: yaml files: config/config.yaml loadded successfully]
+[2026-04-30 01:11:06,127: INFO: common: yaml files: params.yaml loadded successfully]
+[2026-04-30 01:11:06,128: INFO: common: yaml files: schema.yaml loadded successfully]
+[2026-04-30 01:11:06,128: INFO: common: created directory at: artifacts]
+[2026-04-30 01:11:06,128: INFO: common: created directory at: artifacts/data_transformation]
+[2026-04-30 01:11:06,138: INFO: data_transformation: Splited data into tracking and test sets]
+[2026-04-30 01:11:06,138: INFO: data_transformation: (1199, 12)]
+[2026-04-30 01:11:06,138: INFO: data_transformation: (400, 12)]
+[2026-04-30 01:11:06,138: INFO: main: >>>>>>>>> Stage Data Transformation Stage  completed <<<<<<<<<<<<<<<
+
+x===============x]
