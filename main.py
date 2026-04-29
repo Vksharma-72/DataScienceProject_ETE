@@ -1,6 +1,7 @@
 from src.datascience import logger
 from src.datascience.pipeline.data_ingestion_pipeline import DataIngestionTrainingPipeline
 from src.datascience.pipeline.data_validation_pipeline import DataValidationTrainingPipeline
+from src.datascience.pipeline.data_transformation_pipeline import DataTransformationPipeline
 
 logger.info("Welcome to our custom logging data science ")
 
@@ -24,3 +25,15 @@ if __name__ == "__main__":
         logger.info(f">>>>>>> stage {STAGE_NAME} completed <<<<<<<<<<\n\nx=====================x")
     except Exception as e:
         raise e
+    
+
+STAGE_NAME = "Data Transformation Stage "
+if __name__ == "__main__":
+    try:
+        logger.info(f">>>>>>>>>>>  Stage {STAGE_NAME} started <<<<<<<<<<<<")
+        data_transformation = DataTransformationPipeline()
+        data_transformation.initiate_data_transformation()
+        logger.info(f">>>>>>>>> Stage {STAGE_NAME} completed <<<<<<<<<<<<<<<\n\nx===============x")
+    except Exception as e:
+        raise e
+    
