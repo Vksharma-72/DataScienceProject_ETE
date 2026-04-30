@@ -15,6 +15,9 @@ from dotenv import load_dotenv
 import os
 load_dotenv 
 
+##  the mlflow tracking_url, username and access_taken is imported from .env file using dotenv or load_dotenv 
+ 
+
 class ModelEvaluation:
     def __init__(self, config:ModelEvaluationConfig):
         self.config = config
