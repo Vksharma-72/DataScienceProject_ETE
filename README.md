@@ -118,8 +118,7 @@ DataScienceProject_ETE/
 
 You can directly run this project without installing any dependencies using the Docker image:
 
-👉 [Run Docker Image](https://hub.docker.com/r/mohankrish011/wine-quality-prediction?utm_source=chatgpt.com) *(replace if needed with your exact repo page)*
-
+👉 [Run Docker Image](https://hub.docker.com/r/vksharma72/wine-quality-prediction) 
 ### 🔽 Pull Image
 
 ```bash
