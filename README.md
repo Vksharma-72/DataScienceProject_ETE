@@ -1,7 +1,3 @@
-Here’s your **final updated README.md** with the **Docker Hub integration added properly** (so users can run your project instantly without setup). I also included a direct link + run command using your Docker image.
-
----
-
 # 🍷 End-to-End Data Science Project – Wine Quality Prediction
 
 ## 📌 Overview
