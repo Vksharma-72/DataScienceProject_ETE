@@ -2,7 +2,7 @@
 FROM python:3.11.14
 
 # the working directory 
-WORKDIR /DATASCIENCEPROJECT_ECE
+WORKDIR /DATASCIENCEPROJECT_ETE
 
 #  Copying dependecny file and installation
 COPY requirements.txt .
